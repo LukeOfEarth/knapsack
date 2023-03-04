@@ -1,0 +1,27 @@
+# .NET 7
+
+# Binaries
+bin/
+obj/
+
+# Dependencies
+**/bin/
+**/obj/
+**/*.dll
+**/*.pdb
+**/*.exe
+**/*.exe.config
+**/*.csproj.user
+**/*.cache
+**/*.log
+
+# User-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Other
+[Tt]humbs.db
+*.DS_Store
